@@ -1,6 +1,6 @@
-# yogeshYO
+# yogesh baral
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yogesh+Baral;CS+Student+%7C+ML+Enthusiast;Python+Developer+in+Making;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yogesh+Baral;CS+Student+%7C+ML+Enthusiast;Python+Developer;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 **Learning:**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -40,17 +40,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshY0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshY0&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshY0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
 
 ---
 
@@ -73,5 +62,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yogeshY0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
   
-  **💬 "Learning in public, one commit at a time!"**
-</div>
+
